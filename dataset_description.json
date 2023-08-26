@@ -9,7 +9,7 @@
         "Anton Kalinovsky",
         "Jamil Rzaev"
     ],
-    "DatasetDOI": "NA",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004717.v1.0.0",
     "GeneratedBy": [
         {
             "Name": "dcm2bids",
